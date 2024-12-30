@@ -1,0 +1,3 @@
+kubernetes
+google-cloud-container
+google-cloud-datastore
